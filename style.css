@@ -1,0 +1,28 @@
+* {
+	color: #444444;
+
+}
+
+h1,h2,h3 {
+	line-height: 2;
+
+}
+h1 {
+	font-size: 40px;
+
+}
+
+h2 {
+    font-size: 30px;
+
+}
+
+h3 {
+	font-size: 22px;
+}
+
+
+p {
+	font-size: 20px;
+	line-height: 1.5;
+}
